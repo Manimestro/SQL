@@ -1,0 +1,2 @@
+# learnSQLwithMani
+learnSQLwithMani
